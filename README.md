@@ -15,7 +15,7 @@ Info of our instance
 Check in aws also → instance launched (aws-cli-arth)
 Image for post
 instance lauched
-✅ [Now lets configure the webserver on our instance. For that lets install httpd in our instance
+# ✅ [Now lets configure the webserver on our instance. For that lets install httpd in our instance
 Image for post
 Command: yum install httpd
 Now lets check the status of httpd
